@@ -25,3 +25,10 @@ data_sample/.gitkeep
 .vscode/
 .idea/
 *.swp
+
+# Allow demo data on Streamlit Cloud
+!data_sample/predictions.csv
+!data_sample/events.csv
+!data_sample/forecast.csv
+!data_sample/history.csv
+!data_sample/route.json
