@@ -33,3 +33,6 @@ python scripts/route_exposure.py --depart 2025-11-08T09:00
 Edit `data_sample/route.json` to your polyline ([ [lon,lat], ... ]).
 
 KPIs auto-logged to `data_sample/metrics.csv`; calibration plot at `data_sample/calibration.png`.
+
+## Live Demo
+👉 **Try it here:** [https://congestionai-demo.streamlit.app/](https://congestionai-demo.streamlit.app/)
