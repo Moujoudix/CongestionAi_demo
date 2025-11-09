@@ -1,0 +1,12 @@
+pandas==2.2.2
+numpy==1.26.4
+lightgbm==4.3.0
+scikit-learn==1.5.1
+h3==3.7.7
+pydeck==0.9.1
+streamlit==1.37.1
+pyyaml==6.0.1
+holidays==0.56
+shapely==2.0.4
+matplotlib==3.9.0
+joblib==1.4.2

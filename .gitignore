@@ -1,0 +1,27 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Generated data & models
+data_sample/history.csv
+data_sample/forecast.csv
+data_sample/events.csv
+data_sample/predictions.csv
+data_sample/metrics.csv
+data_sample/fut_lags_debug.csv
+data_sample/calibration.png
+data_sample/route.json
+data_sample/models/
+
+# Keep the folder structure
+!.gitkeep
+data_sample/.gitkeep
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
